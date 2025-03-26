@@ -17,7 +17,7 @@
     "@full-stack-ts/client": "*",
     "@full-stack-ts/shared": "*",
     "chalk": "^4.0.0",
-    "execa": "^5.0.0",
+    "execa": "^9.5.2",
     "express": "^4.17.3",
     "lowdb": "^1.0.0",
     "pkg-up": "^3.0.0",
